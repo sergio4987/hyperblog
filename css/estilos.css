@@ -42,3 +42,11 @@ body
 {
     padding: 1em;
 }
+
+#ft-container{
+    padding: 5px;
+    background-color: #777;
+    text-align: center;
+    color: white;
+
+}
