@@ -46,5 +46,12 @@ body
 #post
 {
     padding: 1em;
-    background: white;
+}
+
+#ft-container{
+    padding: 5px;
+    background-color: #777;
+    text-align: center;
+    color: white;
+
 }
