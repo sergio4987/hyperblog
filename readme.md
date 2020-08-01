@@ -9,5 +9,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * creado por el incrible platzi team
+* Incluye ejemplos en windows Linux y Mac
 
 
